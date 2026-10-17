@@ -55,6 +55,7 @@ their own licences and are installed, not redistributed as this project's code.
 
 ## Publication state
 
-No author-owned public repository or DOI has been created yet. Account access
-and author licence confirmation are still required. An upstream data DOI must
-not be represented as the DOI of this project's code or experiment results.
+The lightweight code and numerical-table archives are publicly available at
+https://github.com/yusonTan/UnifiedInternalMoE-vessel-forecasting.
+Rights-holder licence confirmation is still pending; no project DOI exists.
+The upstream data DOI is not the DOI of this project's code or experiment results.
