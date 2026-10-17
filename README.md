@@ -48,13 +48,22 @@ The Finnish dataset is CC BY 4.0. EnvShip has component-specific terms and must
 not be described as uniformly CC BY. This repository does not mirror raw AIS.
 The upstream dataset DOI is not the DOI of this project's code or results.
 
-## Licence status
+## Licences
 
-Author-owned code: MIT proposed, awaiting rights-holder confirmation.
-Author-owned result summaries: CC BY 4.0 proposed, awaiting confirmation.
-Until confirmation, no new blanket permission is granted for author-owned work.
+Author-owned code is released under the MIT licence; see `LICENSE`.
+Author-owned numerical result summaries are released under CC BY 4.0;
+see `LICENSE-DATA.md`. These scopes apply to the contents of the archives too.
 Third-party notices and permissions remain effective under their original terms;
 the probabilistic-baseline attribution is retained in the code archive.
+
+## Citation
+
+If you use this method, code or result tables in a research publication, please
+cite this repository and the associated paper when its public bibliographic
+record is available. Use `CITATION.cff` (GitHub's **Cite this repository**) or
+`CITATION.bib`. Identify the commit used for reproducibility. We have not assigned
+a journal, publication status or DOI to an unpublished manuscript. This academic
+citation request does not add a condition to the MIT licence.
 
 ## Contact
 

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its result tables in research, please cite this repository and the associated paper when available."
+type: software
+title: "UnifiedInternalMoE vessel trajectory forecasting: reproducibility materials"
+authors:
+  - family-names: Tan
+    given-names: Yuxiang
+  - family-names: Cai
+    given-names: Yingqiang
+    orcid: "https://orcid.org/0000-0002-8409-996X"
+  - family-names: Fan
+    given-names: Kuan
+  - family-names: Li
+    given-names: Xiaowen
+  - family-names: Qiu
+    given-names: Guangyu
+date-released: 2026-10-17
+url: "https://github.com/yusonTan/UnifiedInternalMoE-vessel-forecasting"
+repository-code: "https://github.com/yusonTan/UnifiedInternalMoE-vessel-forecasting"
+license: MIT
+keywords:
+  - vessel trajectory forecasting
+  - mixture of experts
+  - reproducibility

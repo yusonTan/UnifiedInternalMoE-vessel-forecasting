@@ -46,9 +46,9 @@ modification notes with any redistributed derived subset.
 
 ## Code and results are separate
 
-MIT is proposed for author-owned code; author-owned numerical summaries are
-proposed for CC BY 4.0. Neither proposal is active until the rights holder
-confirms. Neither licence overrides the third-party terms above. Retain the
+Author-owned code is released under MIT; author-owned numerical summaries under
+CC BY 4.0, following author confirmation on 17 October 2026. Neither licence
+overrides the third-party terms above. Retain the
 probabilistic-baseline attribution and MIT copyright notice bundled in
 release_audit/PROBABILISTIC_MDN_NOTICE.md. Other scientific dependencies retain
 their own licences and are installed, not redistributed as this project's code.
@@ -57,5 +57,5 @@ their own licences and are installed, not redistributed as this project's code.
 
 The lightweight code and numerical-table archives are publicly available at
 https://github.com/yusonTan/UnifiedInternalMoE-vessel-forecasting.
-Rights-holder licence confirmation is still pending; no project DOI exists.
+Author licence approval has been received; no project DOI exists.
 The upstream data DOI is not the DOI of this project's code or experiment results.
